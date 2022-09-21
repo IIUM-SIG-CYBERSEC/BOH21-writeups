@@ -1,2 +1,5 @@
-# BOH21-writeups
-Battle of hackers 2021 write ups. 
+# Write up
+
+A repository to store ctf-writeups for future references
+
+If you have write up not included here, fell free to create a pull request
